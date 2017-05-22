@@ -20,3 +20,8 @@ Honolulu, Hawaii
 May 23rd
 High 83F / Low 72F
 Description: Partly Cloudy/Wind
+
+Austin, Texas
+
+May 23rd
+High 82F / Low 58F
