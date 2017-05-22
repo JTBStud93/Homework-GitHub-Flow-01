@@ -1,0 +1,2 @@
+# Homework-GitHub-Flow-01
+Git Flow is a built-in way to branch and merge. It's convenient and effective. Repeat the previous assignment using Git Flow.
