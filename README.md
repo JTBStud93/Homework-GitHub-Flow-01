@@ -68,3 +68,5 @@ Montpelier, Vermont
 May 23rd
 High 71F / Low 48F
 Description: Partly Cloudy
+
+Dover, Delaware
