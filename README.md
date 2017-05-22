@@ -73,3 +73,4 @@ Dover, Delaware
 
 May 23rd
 High 66F / Low 58F
+Description: Rain
