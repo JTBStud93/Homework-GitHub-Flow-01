@@ -7,3 +7,5 @@ Helena, Montana
 
 May 23rd
 High 80F / Low 55F
+Description: Sunny
+
