@@ -25,3 +25,4 @@ Austin, Texas
 
 May 23rd
 High 82F / Low 58F
+Description: Scattered Thunderstorms
