@@ -14,3 +14,5 @@ Cheyenne, Wyoming
 May 23rd
 High 58F / Low 38F
 Description: Partly Cloudy/Wind
+
+Honolulu, Hawaii
