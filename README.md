@@ -43,3 +43,4 @@ Albany, New York
 
 May 23rd
 High 75F / Low 52F
+Description: Partly Cloudy
