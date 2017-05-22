@@ -62,3 +62,8 @@ Augusta, Maine
 May 23rd
 High 72F / Low 51F
 Description: Partly Cloudy
+
+Montpelier, Vermont
+
+May 23rd
+High 71F / Low 48F
