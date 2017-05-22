@@ -58,3 +58,6 @@ High 72F / Low 56F
 Description: PM Showers
 
 Augusta, Maine
+
+May 23rd
+High 72F / Low 51F
