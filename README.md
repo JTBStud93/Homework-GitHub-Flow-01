@@ -49,3 +49,4 @@ Concord, New Hampshire
 
 May 23rd
 High 76F / Low 51F
+Description: Partly Cloudy
