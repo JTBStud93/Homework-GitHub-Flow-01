@@ -16,3 +16,6 @@ High 58F / Low 38F
 Description: Partly Cloudy/Wind
 
 Honolulu, Hawaii
+
+May 23rd
+High 83F / Low 72F
