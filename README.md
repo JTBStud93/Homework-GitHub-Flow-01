@@ -44,3 +44,8 @@ Albany, New York
 May 23rd
 High 75F / Low 52F
 Description: Partly Cloudy
+
+Concord, New Hampshire
+
+May 23rd
+High 76F / Low 51F
